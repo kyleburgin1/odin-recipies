@@ -1,0 +1,15 @@
+.main-title #pizza{
+    font-size: 38px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+.index-list{
+   font-family: 'Courier New', Courier, monospace;
+   background-color: aquamarine;
+}
+
+.pizza-list{
+    
+}
