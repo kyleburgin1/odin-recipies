@@ -15,7 +15,6 @@
    font-family: 'Courier New', Courier, monospace;
    font-size: 16px;
    list-style-position: inside;
-   
 }
 
 .description{
@@ -26,5 +25,24 @@
     width: 400px;
     height: auto;
     background-color: grey;
+}
 
+.ingredients{
+    height: auto;
+    width: 400px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: dimgray;
+    border: 16px;
+    border-radius: 12px;
+}
+
+.instructions{
+    width: 400px;
+    height: auto;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: dimgray;
+    border: 16px;
+    border-radius: 12px;
 }
