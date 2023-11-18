@@ -18,3 +18,13 @@
    
 }
 
+.description{
+    text-align: center;
+    padding: 8px 16px;
+    border-radius: 12px;
+    border-color: black;
+    width: 400px;
+    height: auto;
+    background-color: grey;
+
+}
