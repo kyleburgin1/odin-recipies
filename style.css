@@ -42,7 +42,16 @@
     height: auto;
     padding-top: 6px;
     padding-bottom: 6px;
-    background-color: dimgray;
+    background-color: lightgray;
+    border: 16px;
+    border-radius: 12px;
+}
+
+.secondary-title{
+    width: 400px;
+    height: auto;
+    text-align: center;
+    background-color: lightblue;
     border: 16px;
     border-radius: 12px;
 }
